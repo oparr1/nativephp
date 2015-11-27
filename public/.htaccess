@@ -1,0 +1,6 @@
+# for css
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^$1
+RedirectMatch 301 ^//.*$ /$1

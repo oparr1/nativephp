@@ -1,0 +1,10 @@
+{
+    "require": {
+        "respect/validation": "^0.9.3",
+        "phpmailer/phpmailer": "^5.2",
+        "cartalyst/sentinel": "2.0.*",
+        "illuminate/database": "@dev",
+        "illuminate/events": "5.1.*",
+        "symfony/http-foundation": "^2.7"
+    }
+}
